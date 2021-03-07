@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+body {
+	background-image: url("02.png");
+}
+
+.Div1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color: aqua;
+    width: 820px;
+    margin: auto;
+}
+
+nav {
+    font-family: inherit;
+    font-style: oblique;
+    margin-right: auto;
+    margin-bottom: auto;
+    color: aqua;
+    margin-left: 411px;
+    margin-top: -52px;
+}
+
+.Blogtext2 {
+    text-align: left;
+    font-size: 20px;
+    background-color: rgba(0,140,255,1.00);
+    width: 800px;
+    margin-left: 227px;
+    margin-right: 250px;
+    font-family: architects-daughter;
+    padding-left: 30px;
+    font-style: normal;
+    font-weight: 400;
+	}
+
+.Blogtext2 h3 {
+    text-align: center;
+    margin-bottom: 1px;
+    font-size: 35px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif
+}
+	
+.Blogtext2 h4 {
+    text-align: center;
+    margin-top: 1px;
+    font-size: 15px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif
+}
+
+.Blogtext2 h5 {
+	font-style: italic;
+	font-size: 15px;
+}

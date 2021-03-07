@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+body {
+	background-image: url("800px_COLOURBOX36131063.jpg");
+}
+
+.Bodytext {
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 45px;
+    margin-right: 45px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+
+}
+.Bodytext h {
+    text-align: center;
+    margin-left: 325px;
+    font-size: 50px;
+    margin-top: -8px;
+    margin-bottom: 3px;
+    margin-right: -39px;
+
+}
+
+.Bodytext h2 {
+	text-align: center;
+	margin-top: 1px;
+	font-size: 20px;
+	
+}
+
+.Div1 {
+    font-family: chunk;
+    background-color: white;
+    font-size: 60px;
+    align-content: center;
+    margin-left: 175px;
+    margin-right: 175px;
+    margin-top: 10px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    color: red;
+}
+
+.Div2 {
+    background-color: #FFFFFF;
+    margin-top: auto;
+    margin-left: 175px;
+    margin-right: 175px;
+    text-align: center;
+}
